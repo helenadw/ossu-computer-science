@@ -6,6 +6,23 @@
 
 # ossu-computer-science
 
+# Progress
+
+Section | Module | Course | Status | Repo Link
+:-- | :--: | :--: | :--: | :--:
+Intro CS | Introduction to Programming | [Python for Everybody](https://www.py4e.com/lessons) | 🟡 | [link](https://github.com/helenadw/ossu-computer-science/tree/main/intro-cs/introduction-to-programming/python-for-everybody) |
+Intro CS | Introduction to Computer Science | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 🔴 |  |
+Core CS | Core Programming | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) [(textbook)](https://htdp.org/2022-8-7/Book/index.html) | 🔴 | | 
+Core CS | Core Programming | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 🔴 |  |
+Core CS | Core Programming | [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 🔴 |  | 
+Core CS | Core Programming | [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 🔴 |  | 
+Core CS | Core Programming | [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 🔴 |  | 
+Core CS | Core Programming | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 🔴 |  | 
+Core CS | Core Programming | [Design Patterns](https://www.coursera.org/learn/design-patterns) | 🔴 |  | 
+Core CS | Core Programming | [Software Architecture](https://www.coursera.org/learn/software-architecture) | 🔴 |  | 
+
+
+
 # Curriculum
 
 - [Prerequisites](#prerequisites)
